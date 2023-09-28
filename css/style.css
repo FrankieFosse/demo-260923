@@ -3,6 +3,19 @@ body {
     background-color: #4f0e0e;
 }
 
-nav ul li a {
+nav ol li a {
     color: #0091ff;
     }
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 
+}
+
+h1 {
+    color:blue;
+}
